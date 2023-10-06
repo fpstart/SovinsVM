@@ -1,2 +1,10 @@
 #define MOV 0x00
-#define ADD 0x0
+#define ADD 0x01
+#define SUB 0x02
+#define MUL 0x03
+#define DIV 0x04
+#define MOD 0x05
+#define AND 0x06
+#define AOR 0x07
+#define XOR 0x08
+#define 
