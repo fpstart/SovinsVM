@@ -7,4 +7,12 @@
 #define AND 0x06
 #define AOR 0x07
 #define XOR 0x08
-#define 
+#define NOT 0x09
+#define EUL 0x0a
+#define MOR 0x0b
+#define LES 0x0c
+#define SAU 0x0d
+#define JMP 0x0e
+#define END 0x0f
+#define PUH 0x10
+#define POP 0x11
