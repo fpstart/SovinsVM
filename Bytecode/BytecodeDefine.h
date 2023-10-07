@@ -18,4 +18,8 @@
 #define POP 0x11
 #define NEW 0x12
 #define DEL 0x13
+#define CAL 0x14
+#define BMV 0x15
+#define BST 0x16
+#define EFL 0xfe
 #define END 0xff
