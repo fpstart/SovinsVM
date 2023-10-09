@@ -6,7 +6,7 @@ struct Stack
 }
 bool addDataToStack(struct Stack** stack,unsigned int data)
 {
-  if ((**stack).top==126){
+  if ((**stack).top < 127){
     
   }else{
     
