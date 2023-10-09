@@ -1,10 +1,14 @@
 struct Stack
 {
   unsigned int StackVal[128];
-  struct Stack* next;
+  struct Stack* last;
   unsigned int* top;
 }
-bool addDataToStack(struct Stack* stack,unsigned int data)
+bool addDataToStack(struct Stack** stack,unsigned int data)
 {
-  if (stack->)
+  if ((**stack).top==126){
+    
+  }else{
+    
+  }
 }
