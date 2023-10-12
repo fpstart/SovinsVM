@@ -1,5 +1,5 @@
-#ifndef __Sovins_MemoryUnit_H__
-#define __Sovins_MemoryUnit_H__
+#ifndef __SOVINS_MEMORYUNIT_H__
+#define __SOVINS_MEMORYUNIT_H__
 union 8ByteMemoryUnit
 {
   unsigned long long 8Byte;
